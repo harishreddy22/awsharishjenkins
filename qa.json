@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-6f68cf0f"
+    "ParameterValue": "ami-f173cc91"
   }, 
   {
     "ParameterKey": "InstanceType",
@@ -9,14 +9,14 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "klo"
+    "ParameterValue": "klo2"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-f35de094"
+    "ParameterValue": "subnet-2a6ad063"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-a40974dc"
+    "ParameterValue": "sg-c8ed19b3"
   }
 ]
